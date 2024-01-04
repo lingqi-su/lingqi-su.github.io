@@ -11,8 +11,13 @@ redirect_from:
 <br/>
 Greetings! My name is Lingqi Su (苏灵奇, pronounced as Lynn-Chee Su). I am an experienced engineer and researcher for HVAC and energy system. I am currently working at ENGIE Lab China and I got my Dr.-Ing. (Doctor of Engineering) from Friedrich Schiller University Jena in Germany. 
 
+<<<<<<< HEAD
 <p align="center"><img src="/images/bachelor.JPG" alt="Don't mess with me, I'll eat you" width="25%"/></p>
 <center>Me freaking out over my broken laptop</center>
+=======
+<p align="center"><img src="/images/bachelor.jpg" alt="Don't mess with me, I'll eat you" width="25%"/></p>
+<center>Me freak out over my broken laptop</center>
+>>>>>>> 15a2c4d6b4b28ac526ba160446dc32fbfd562785
 
 <br/>
 
