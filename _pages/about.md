@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <br/>
-Greetings! My name is Lingqi Su (苏灵奇, pronounced as Lynn-Chee Su). I am an experienced engineer and researcher for HVAC and energy system. I am currently working at ENGIE Lab China and I got my Dr.-Ing. (Doctor of Engineering) from Friedrich Schiller University Jena in Germany. 
+Greetings! My name is Lingqi Su (苏灵奇, pronounced as Lynn-Chee Su). I am an experienced engineer and academic for building and urban energy system. I am an Assistant Professor at Tongji University. Before joining in Tongji University, I worked for ENGIE China and Trina Power. I got my Dr.-Ing. (Doctor of Engineering) from Friedrich Schiller University Jena in Germany. 
 
 
 <p align="center"><img src="/images/bachelor.jpg" alt="Don't mess with me, I'll eat you" width="25%"/></p>
@@ -17,7 +17,7 @@ Greetings! My name is Lingqi Su (苏灵奇, pronounced as Lynn-Chee Su). I am an
 
 <br/>
 
-My major research interests include machine learning and optimization assisted energy system design and operation, electricity market prediction and trading, thermo-active building systems. 
+My major research interests include machine learning and optimization assisted energy system design and operation, power market trading, thermo-active building systems. 
 
 At my leisure time, I enjoyed listening to pop music, playing my cello, watching movies, watching Borussia Dortmund's footbal games and practising Thai-boxing together with my wife.
 
